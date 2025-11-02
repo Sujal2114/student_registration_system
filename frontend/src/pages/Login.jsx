@@ -47,7 +47,7 @@ const Login = () => {
           onClick={() => navigate("/")}
           className="text-white font-semibold text-2xl cursor-pointer"
         >
-          P.K Arts College
+         Students Mgmt.
         </div>
       </div>
 
