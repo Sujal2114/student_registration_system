@@ -82,8 +82,8 @@ Project/
 - `/api/semesters` - Manage semester information
 - `/api/auth` - Authentication routes
 
-## Screenshots
-![Screenshot 1](screenshot1.png)
+## Videos
+- [Demo Video](github.mp4)
 
 ## License
 This project is licensed under the [MIT License](license.txt).
